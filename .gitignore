@@ -1,0 +1,11 @@
+Debug/
+Release/
+*.sdf
+*.ncb
+*.suo
+*.vcxproj.user
+*.VC.opendb
+*.VC.db
+ipch
+debug.txt
+*.opensdf
